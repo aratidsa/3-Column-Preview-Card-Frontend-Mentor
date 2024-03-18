@@ -32,7 +32,7 @@ In this small project, build out this 3 Column Preview Card and get it looking a
 ### Links
 
 - Solution URL: https://github.com/aratidsa/3-Column-Preview-Card-Frontend-Mentor
-- Live Site URL: 
+- Live Site URL: https://3-column-preview-card-design.netlify.app/
 
 ## My process
 
